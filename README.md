@@ -1,4 +1,4 @@
-# chatTime UI Flutter
+# chatTeam UI Flutter
 
 Simple overview of use/purpose.
 
